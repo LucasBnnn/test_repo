@@ -1,3 +1,5 @@
 initial file
 
-modif local2
+
+modif1 +  local2 # resolve merge conflic
+
