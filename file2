@@ -4,3 +4,4 @@ initial file
 modif1 +  local2 # resolve merge conflic
 modif 2 + local2 bis
 modif3 + modif local2 ter
+modif local2 4
